@@ -17,3 +17,8 @@ This repository contains solution of SQL 50 problems from Leet Code that I solve
 # Q4
 
 <img width="1385" alt="Screenshot 2025-04-30 at 11 57 57 PM" src="https://github.com/user-attachments/assets/95207e79-aac6-4adf-84f5-954af9bda5f6" />
+
+---
+# Q5 
+
+<img width="1536" alt="Screenshot 2025-05-05 at 4 15 26 PM" src="https://github.com/user-attachments/assets/136ca43f-4939-40bf-a615-803cdf0f8302" />
