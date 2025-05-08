@@ -22,3 +22,9 @@ This repository contains solution of SQL 50 problems from Leet Code that I solve
 # Q5 
 
 <img width="1536" alt="Screenshot 2025-05-05 at 4 15 26 PM" src="https://github.com/user-attachments/assets/136ca43f-4939-40bf-a615-803cdf0f8302" />
+
+---
+# Q6
+
+<img width="1600" alt="Screenshot 2025-05-08 at 11 10 07 AM" src="https://github.com/user-attachments/assets/21767144-d61b-482e-a687-0419c408b699" />
+
