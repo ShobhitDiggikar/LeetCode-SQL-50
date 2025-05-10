@@ -33,4 +33,10 @@ This repository contains solution of SQL 50 problems from Leet Code that I solve
 
 <img width="1607" alt="Screenshot 2025-05-09 at 12 00 09 PM" src="https://github.com/user-attachments/assets/8aed88f8-e4d8-4e73-bcca-c9b005f08bea" />
 
+---
+# Q8
+
+<img width="1607" alt="Screenshot 2025-05-10 at 3 09 11 PM" src="https://github.com/user-attachments/assets/825b8906-192b-44a4-8f7d-aed414cb5d37" />
+
+
 
