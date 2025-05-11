@@ -40,8 +40,13 @@ This repository contains solution of SQL 50 problems from Leet Code that I solve
 
 ---
 # Q9
+This solution is still missing something 
 
 <img width="1521" alt="Screenshot 2025-05-10 at 6 03 33 PM" src="https://github.com/user-attachments/assets/39e214a7-a8fb-45cb-b444-8a7524e9e4bd" />
+
+---
+# Q10
+
 
 
 
