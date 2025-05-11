@@ -47,6 +47,7 @@ This solution is still missing something
 ---
 # Q10
 
+<img width="1521" alt="Screenshot 2025-05-11 at 3 01 48 PM" src="https://github.com/user-attachments/assets/fe433877-012b-42b8-b881-dc053fc4be20" />
 
 
 
