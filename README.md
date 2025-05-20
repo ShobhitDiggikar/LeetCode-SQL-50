@@ -54,6 +54,12 @@ This solution is still missing something
 
 <img width="1507" alt="Screenshot 2025-05-14 at 11 57 45 PM" src="https://github.com/user-attachments/assets/03a1835c-12aa-4f19-96c8-6dacc8934d90" />
 
+---
+# 12
+
+<img width="1648" alt="Screenshot 2025-05-19 at 10 26 23 PM" src="https://github.com/user-attachments/assets/5c8de43d-7e17-4720-ac22-18baa0485fb5" />
+
+<img width="1538" alt="Screenshot 2025-05-19 at 10 27 24 PM" src="https://github.com/user-attachments/assets/46f4eeaa-03f9-4c98-ab7b-47ccfe6ea3d6" />
 
 
 
