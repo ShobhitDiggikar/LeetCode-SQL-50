@@ -66,6 +66,12 @@ This solution is still missing something
 
 <img width="1356" height="798" alt="Screenshot 2025-08-14 at 10 23 03 AM" src="https://github.com/user-attachments/assets/87ce320f-b63f-4baa-9091-4d632d22a05e" />
 
+---
+# 14 
+
+<img width="1393" height="783" alt="Screenshot 2025-08-15 at 8 19 59 AM" src="https://github.com/user-attachments/assets/09ea2068-b747-4dd6-95e4-763412154c99" />
+
+
 
 
 
